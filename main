@@ -1,4 +1,6 @@
 def main(msg):
+// Adding instead
+
     print(msg)
 
 print("Yay fuck yes")
