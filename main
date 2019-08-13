@@ -1,11 +1,8 @@
 def main(msg):
-
-// Adding instead
-//Print message 
-
-
+// no Longer need v01
     print(msg)
 
-print("Yay fuck yes")
+def secondary():
+    print("New function")
 
 main("Hello people")
