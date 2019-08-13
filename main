@@ -1,5 +1,8 @@
 def main(msg):
+
 // Adding instead
+//Print message 
+
 
     print(msg)
 
